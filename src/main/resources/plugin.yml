@@ -1,0 +1,8 @@
+name: AntyLogout
+version: '${version}'
+
+main: me.japuszkogv.antyLogout.AntyLogout
+api-version: '1.21.4'
+load: POSTWORLD
+
+authors: [ Japuszkogv ]
